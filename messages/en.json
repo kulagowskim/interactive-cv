@@ -1,0 +1,14 @@
+{
+  "Header": {
+    "jobTitle": "Full Stack Developer | React & Next.js Specialist"
+  },
+  "Footer": {
+    "copyright": "© {year} Mateusz Kulągowski]. All rights reserved."
+  },
+  "Navigation": {
+    "about": "About Me",
+    "experience": "Experience",
+    "projects": "Projects",
+    "contact": "Contact"
+  }
+}
